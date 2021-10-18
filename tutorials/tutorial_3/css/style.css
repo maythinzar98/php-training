@@ -1,0 +1,23 @@
+@charset 'utf-8';
+.title {
+    text-align: center;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.table {
+    margin: 0 auto;
+}
+
+td {
+    padding: 20px;
+}
+
+.btn-data {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.btn {
+    margin: 0 auto;
+}

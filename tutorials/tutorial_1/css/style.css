@@ -1,0 +1,19 @@
+@charset 'utf-8';
+.chess-table {
+    margin: 0 auto;
+    border: 1px solid #000000;
+}
+
+.black-cell,
+.white-cell {
+    width: 50px;
+    height: 50px;
+}
+
+.black-cell {
+    background-color: #000000;
+}
+
+.white-cell {
+    background-color: #ffffff;
+}
