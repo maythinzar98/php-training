@@ -24,15 +24,15 @@
     <table class="table">
       <tr>
           <td class="text">
-              Choose Your Birthday:
+            Choose Your Birthday:
           </td>
           <td>
-              <input type="date" id="birthday" name="birthday">
+            <input type="date" id="birthday" name="birthday">
           </td>
       </tr>
       <tr>
           <td class="text">
-              Your Age is: 
+            Your Age is: 
           </td>
           <td>
             <?php
@@ -43,7 +43,7 @@
       </tr>
       <tr>
           <td class="btn-data" colspan=2>
-              <input class="btn" type="submit" name="btn" value="Calculate" >
+            <input class="btn" type="submit" name="btn" value="Calculate" >
           </td>
       </tr>
     </table>
