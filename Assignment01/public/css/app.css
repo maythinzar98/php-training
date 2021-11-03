@@ -1,0 +1,119 @@
+@charset "utf-8";
+#app-layout {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar {
+    background-color: #ba55d3;
+    height: 100px;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.nav-header {
+    padding-top: 30px;
+}
+
+.navbar-brand {
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 30px;
+    color: #800080;
+}
+
+.tbl {
+    width: 100%;
+    margin: 50px auto;
+}
+
+.theader {
+    height: 50px;
+    font-weight: bold;
+    color: #800080;
+}
+
+th,
+td {
+    font-size: 20px;
+    vertical-align: middle;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.img-size {
+    width: 80%;
+}
+
+.action {
+    width: 20%;
+}
+
+.form-group {
+    margin: 20px auto;
+}
+
+.txtbox-control {
+    margin-top: 20px;
+}
+
+.txtbox {
+    width: 50%;
+    height: 30px;
+}
+
+.create-btn {
+    background-color: #800080;
+    color: #fff;
+}
+
+.back-btn {
+    background-color: #fff;
+    color: #800080;
+    border: 1px solid #000;
+    margin-top: 20px;
+}
+
+.view-container {
+    padding: 10px;
+    background-color: #d8bfd8;
+}
+
+.view-data {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.view-data img {
+    width: 80%;
+    height: 80%;
+}
+
+.shoes-datalist {
+    list-style-type: none;
+    padding: 10px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.shoes-datalist li {
+    margin-bottom: 20px;
+}
+
+.link-btn {
+    background-color: #d8bfd8;
+}
+
+.export {
+    margin: 20px auto;
+}
