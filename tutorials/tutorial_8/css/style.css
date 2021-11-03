@@ -1,0 +1,101 @@
+ @charset 'utf-8';
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.stu-form {
+    margin: auto;
+}
+
+.title {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    color: #663399;
+}
+
+label {
+    font-size: 20px;
+    color: #663399;
+}
+
+.txtbox {
+    width: 80%;
+    height: 30px;
+    margin-bottom: 30px;
+    border: 1px solid #663399;
+}
+
+.add-btn {
+    color: #fff;
+    background-color: #663399;
+    border: 0px;
+}
+
+.add-btn,
+.cancel-btn {
+    width: 10%;
+    height: 30px;
+    font-weight: bold;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.cancel-btn {
+    margin-left: 50px;
+    color: #663399;
+    background-color: #fff;
+    border: 1px solid #663399;
+}
+
+.add-btn:hover,
+.cancel-btn:hover {
+    opacity: 70%;
+}
+
+
+/**index.php**/
+
+.addstu-btn {
+    padding: 10px;
+    color: #fff;
+    font-weight: bold;
+    background-color: #663399;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.display-table {
+    margin-top: 50px;
+    width: 100%;
+    border: 1px solid navy;
+}
+
+thead {
+    width: 100%;
+    background-color: #663399;
+    color: #fff;
+}
+
+th {
+    padding: 30px;
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+.edit-btn {
+    background-color: #0000ff;
+}
+
+.edit-btn,
+.delete-btn {
+    padding: 5px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.delete-btn {
+    background-color: #ff0000;
+    margin-left: 10px;
+}
